@@ -7,21 +7,21 @@ The Lead Management System is designed to centralize the process of capturing, s
 
 My Role and Contributions:
 
-I took a hands-on role in every phase of the project lifecycle:
+1. I took a hands-on role in every phase of the project lifecycle:
 
-Requirements Gathering: Collaborated with stakeholders to understand their needs and pain points.
+2. Requirements Gathering: Collaborated with stakeholders to understand their needs and pain points.
 
-System Architecture: Designed a scalable and efficient architecture for the system, ensuring optimal performance.
+3. System Architecture: Designed a scalable and efficient architecture for the system, ensuring optimal performance.
 
-Frontend Development: Developed a user-friendly interface for lead entry, modification, and status tracking using PHP, HTML, and CSS.
+4. Frontend Development: Developed a user-friendly interface for lead entry, modification, and status tracking using PHP, HTML, and CSS.
 
-Backend Logic: Implemented robust backend functionalities, including lead assignment, follow-up scheduling, and lead status updates.
+5. Backend Logic: Implemented robust backend functionalities, including lead assignment, follow-up scheduling, and lead status updates.
 
-Database Management: Designed the database schema and leveraged the power of an RDBMS to ensure data integrity and quick retrieval.
+6. Database Management: Designed the database schema and leveraged the power of an RDBMS to ensure data integrity and quick retrieval.
 
-Testing and Quality Assurance: Conducted thorough testing to identify and resolve bugs, ensuring a seamless user experience.
+7. Testing and Quality Assurance: Conducted thorough testing to identify and resolve bugs, ensuring a seamless user experience.
 
-Deployment and Maintenance: Oversaw the deployment of the system and provided ongoing maintenance to address any issues.
+8. Deployment and Maintenance: Oversaw the deployment of the system and provided ongoing maintenance to address any issues.
 
 Key Features:
 
