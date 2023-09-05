@@ -29,17 +29,17 @@ Lead Entry and Tracking: Easily input new leads and track their progress through
 
 Automated Follow-ups: Implemented automated email reminders for follow-up actions to improve lead conversion rates.
 
-Customizable Reports: Developed a reporting module to generate custom reports based on different criteria.
+Customizable Reports: Developed a reporting module to generate custom reports and automtic will send to google sheet.
 
 User Authentication: Integrated a secure user authentication system to control access to sensitive lead data.
 
 Technologies Used:
 
-PHP: For backend logic and server-side scripting.
+1.PHP: For backend logic and server-side scripting.
 
-HTML/CSS: For frontend interface development and styling.
+2.HTML/CSS: For frontend interface development and styling.
 
-Relational Database: Utilized the power of an RDBMS to efficiently store and manage lead data.
+3.Relational Database: Utilized the power of an RDBMS to efficiently store and manage lead data.
 
 Learning and Future Enhancements:
 
